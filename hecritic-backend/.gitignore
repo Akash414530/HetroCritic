@@ -1,0 +1,29 @@
+# Dependency directories
+node_modules/
+
+# Runtime data
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Logs
+logs/
+*.log*
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Production build
+build/
+dist/
+
+# OS generated files
+.DS_Store
+Thumbs.db
